@@ -1,0 +1,36 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{threeparttable}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\begin{document}
+
+\begin{table}[htbp]
+\centering
+\begin{threeparttable}
+\caption{Accidents and Union Branches: Region (RD) Level}
+\label{tab:rd_level}
+\begin{tabular}{lcccc}
+\toprule
+ & (1) Pooled & (2) FE: County & (3) FE: Division & (4) FE: Line \\
+\midrule
+Has accident & 0.829$^{***}$ & 0.830$^{***}$ & 0.829$^{***}$ & 0.832$^{***}$ \\
+ & (0.038) & (0.039) & (0.038) & (0.047) \\
+\midrule
+\(N\) & 514 & 511 & 514 & 388 \\
+\(R^2\) (within) & 0.780 & 0.754 & 0.764 & 0.776 \\
+\midrule
+Fixed effects & None & County & Division & Railway line \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item Notes: Unit of observation is 1851 Registration District (RD). Sample: RDs with at least one rail station in England \& Wales. Dependent variable: indicator for RD having at least one union branch. Key regressor: indicator for RD having at least one accident. Controls: log(area+1), log(stations+1). Column (4) identifies RDs on the same railway line; accident randomness is on the line. Heteroskedasticity-robust (HC1) standard errors in parentheses.
+\item $^{***}p<0.01$, $^{**}p<0.05$, $^{*}p<0.10$.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+
+\end{document}

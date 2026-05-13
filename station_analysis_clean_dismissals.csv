@@ -1,0 +1,461 @@
+source_file,source_folder,station,company,name,entry_year,grade,promoted,years_to_promotion,union_within_10km,union_within_20km,nearest_branch_km,nearest_branch_name,branch_members_10km,instrument_accident_rate,dismissed,dismissal_keyword,remarks,period
+32167_636897_0246-00004.jpg,LNER_Birmingham,Birmingham,LNWR,Harrison,1879,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Retired 21.10.81,union_peak
+32167_636897_0246-00004.jpg,LNER_Birmingham,Birmingham,LNWR,Shawcroft,1876,,1,6.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,union_peak
+32167_636897_0246-00004.jpg,LNER_Birmingham,Birmingham,LNWR,Harding,1882,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,union_collapse
+32167_636897_0246-00004.jpg,LNER_Birmingham,Birmingham,LNWR,Stephenson,1881,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Retired 14.3.21,union_collapse
+32167_636897_0246-00004.jpg,LNER_Birmingham,Birmingham,LNWR,Simmons,1882,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,union_collapse
+32167_636897_0246-00004.jpg,LNER_Birmingham,Birmingham,LNWR,Boulton,1882,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,union_collapse
+32167_636897_0246-00004.jpg,LNER_Birmingham,Birmingham,LNWR,Bowen,1916,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00004.jpg,LNER_Birmingham,Birmingham,LNWR,Gill,1884,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,post_collapse
+32167_636897_0246-00004.jpg,LNER_Birmingham,Birmingham,LNWR,Leeson,1894,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00005.jpg,LNER_Birmingham,Birmingham,LNWR,Edwards W,1888,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,post_collapse
+32167_636897_0246-00005.jpg,LNER_Birmingham,Birmingham,LNWR,Taylor W,1889,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,post_collapse
+32167_636897_0246-00005.jpg,LNER_Birmingham,Birmingham,LNWR,Aldersmith B,1884,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Resigned & returned 19/11/1894 & 1 down &,post_collapse
+32167_636897_0246-00005.jpg,LNER_Birmingham,Birmingham,LNWR,Shaw,1889,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Fords Summer 30.5.23,post_collapse
+32167_636897_0246-00005.jpg,LNER_Birmingham,Birmingham,LNWR,Lloyd 98,1887,,1,13.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,post_collapse
+32167_636897_0246-00005.jpg,LNER_Birmingham,Birmingham,LNWR,Barlow,1891,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00005.jpg,LNER_Birmingham,Birmingham,LNWR,Bruce,1888,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Fords,post_collapse
+32167_636897_0246-00005.jpg,LNER_Birmingham,Birmingham,LNWR,Davis W,1890,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Fords Permanent 30.5.23 Labor,post_collapse
+32167_636897_0246-00006.jpg,LNER_Birmingham,Birmingham,LNWR,Hughes W,1890,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,"To Gorddlesham 2.7.22, 3.12.23 Widnes",post_collapse
+32167_636897_0246-00006.jpg,LNER_Birmingham,Birmingham,LNWR,Stubbs R,1893,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gords,late
+32167_636897_0246-00006.jpg,LNER_Birmingham,Birmingham,LNWR,Glanstone S,1906,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,"To Cork Docks 1.7.22, Kilmainham 2.10.23 Widnes",late
+32167_636897_0246-00006.jpg,LNER_Birmingham,Birmingham,LNWR,Worford JW,1896,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00006.jpg,LNER_Birmingham,Birmingham,LNWR,Fruswick J,1894,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00006.jpg,LNER_Birmingham,Birmingham,LNWR,Healey L,1906,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00006.jpg,LNER_Birmingham,Birmingham,LNWR,Chammey H,1897,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00006.jpg,LNER_Birmingham,Birmingham,LNWR,Ratchet S,1896,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,"To Gds 96, (& 23/5/6794 before on night & buckets offer) (& pardon in Notts (Aug 1932))",late
+32167_636897_0246-00006.jpg,LNER_Birmingham,Birmingham,LNWR,Bryan WH,1890,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,post_collapse
+32167_636897_0246-00006.jpg,LNER_Birmingham,Birmingham,LNWR,Gadd W,1897,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00007.jpg,LNER_Birmingham,Birmingham,LNWR,Home T,1896,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,"To Carlisle 9.9.99, to Carlisle 9.9.99, Returned 23.2.00, Returned 23.2.00",late
+32167_636897_0246-00007.jpg,LNER_Birmingham,Birmingham,LNWR,Edwards V,1898,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00007.jpg,LNER_Birmingham,Birmingham,LNWR,Yates W,1889,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,1,Removed,"Removed for drunkenness 9.10.97, Promoted 24.10.97, Removed 24.10.97, Promoted 9.10.97",post_collapse
+32167_636897_0246-00007.jpg,LNER_Birmingham,Birmingham,LNWR,Sheldrake S,1898,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00007.jpg,LNER_Birmingham,Birmingham,LNWR,Griffiths H,1899,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,"To E.th.Sice 2.9.99, To Carlisle 2.9.99, To Carlisle 2.9.99, Returned 3.10.99, Returned 3.10.99, To Carlisle 9.9.99",late
+32167_636897_0246-00007.jpg,LNER_Birmingham,Birmingham,LNWR,Hunt M,1899,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Palfordo,late
+32167_636897_0246-00007.jpg,LNER_Birmingham,Birmingham,LNWR,Heyford R,1896,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00007.jpg,LNER_Birmingham,Birmingham,LNWR,Hebblton W,1899,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00007.jpg,LNER_Birmingham,Birmingham,LNWR,Spa N,1898,,1,8.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Palfordo,late
+32167_636897_0246-00007.jpg,LNER_Birmingham,Birmingham,LNWR,Redwood W,1898,,1,12.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Palfordo,late
+32167_636897_0246-00007.jpg,LNER_Birmingham,Birmingham,LNWR,Dalle W,1885,,1,18.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Abg in all hitch,post_collapse
+32167_636897_0246-00008.jpg,LNER_Birmingham,Birmingham,LNWR,Bargas,1899,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Castleford 12.7.95; Linwood 25.9.02,late
+32167_636897_0246-00008.jpg,LNER_Birmingham,Birmingham,LNWR,Hardwick,1882,,1,21.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Romford & Coldhall 31.3.21; Tollesbury 10.8.23,union_collapse
+32167_636897_0246-00008.jpg,LNER_Birmingham,Birmingham,LNWR,Hewitt,1909,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Tafforths,late
+32167_636897_0246-00008.jpg,LNER_Birmingham,Birmingham,LNWR,Morey,1902,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Tafforths; Shunter here,late
+32167_636897_0246-00008.jpg,LNER_Birmingham,Birmingham,LNWR,Chambers,1902,,1,2.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Tafforths,late
+32167_636897_0246-00008.jpg,LNER_Birmingham,Birmingham,LNWR,Cole,1899,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Tafforths,late
+32167_636897_0246-00008.jpg,LNER_Birmingham,Birmingham,LNWR,Yule,1902,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Tafforths,late
+32167_636897_0246-00008.jpg,LNER_Birmingham,Birmingham,LNWR,Amedley,1903,,1,2.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Tafforths,late
+32167_636897_0246-00008.jpg,LNER_Birmingham,Birmingham,LNWR,Emmerson,1902,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Tafforths,late
+32167_636897_0246-00008.jpg,LNER_Birmingham,Birmingham,LNWR,Lesley,1901,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Tafforths,late
+32167_636897_0246-00008.jpg,LNER_Birmingham,Birmingham,LNWR,Hollis,1903,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Verso - See page 4,late
+32167_636897_0246-00009.jpg,LNER_Birmingham,Birmingham,LNWR,Arnold H,1877,,1,33.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Walsall to Bury General Wallasey 10.3.1905,union_peak
+32167_636897_0246-00009.jpg,LNER_Birmingham,Birmingham,LNWR,Mage E,1884,,1,27.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Le Creusot 11.7.1905 Returned 26.9.1905,post_collapse
+32167_636897_0246-00009.jpg,LNER_Birmingham,Birmingham,LNWR,Headland Alf,1880,,1,26.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,union_collapse
+32167_636897_0246-00009.jpg,LNER_Birmingham,Birmingham,LNWR,Mechanicroft G,1883,,1,20.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorton,post_collapse
+32167_636897_0246-00009.jpg,LNER_Birmingham,Birmingham,LNWR,Riggs B H,1883,,1,20.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorton,post_collapse
+32167_636897_0246-00009.jpg,LNER_Birmingham,Birmingham,LNWR,Lovett J H,1879,,1,30.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorton,union_peak
+32167_636897_0246-00009.jpg,LNER_Birmingham,Birmingham,LNWR,Atkins H M,1883,,1,20.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorton,post_collapse
+32167_636897_0246-00009.jpg,LNER_Birmingham,Birmingham,LNWR,Floyd J A,1878,,1,25.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorton,union_peak
+32167_636897_0246-00009.jpg,LNER_Birmingham,Birmingham,LNWR,McShelly J H,1883,,1,24.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorton,post_collapse
+32167_636897_0246-00009.jpg,LNER_Birmingham,Birmingham,LNWR,Greenall J E,1880,,1,29.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Reduced 8 Shunts 2/6/13 Employed as Goods man relief,union_collapse
+32167_636897_0246-00010.jpg,LNER_Birmingham,Birmingham,LNWR,Carter,1903,,1,9.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Uniform,late
+32167_636897_0246-00010.jpg,LNER_Birmingham,Birmingham,LNWR,Everett,1905,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Alford,late
+32167_636897_0246-00010.jpg,LNER_Birmingham,Birmingham,LNWR,Halliday,1905,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorton,late
+32167_636897_0246-00010.jpg,LNER_Birmingham,Birmingham,LNWR,Griffin,1905,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorton,late
+32167_636897_0246-00010.jpg,LNER_Birmingham,Birmingham,LNWR,Forster,1903,,1,6.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorton,late
+32167_636897_0246-00010.jpg,LNER_Birmingham,Birmingham,LNWR,Hyndch,1905,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorton,late
+32167_636897_0246-00010.jpg,LNER_Birmingham,Birmingham,LNWR,Simmons,1898,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00010.jpg,LNER_Birmingham,Birmingham,LNWR,Suyler,1900,,1,13.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00012.jpg,LNER_Birmingham,Birmingham,LNWR,Sharpe,1911,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00012.jpg,LNER_Birmingham,Birmingham,LNWR,Weighton,1906,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Ely Works,late
+32167_636897_0246-00012.jpg,LNER_Birmingham,Birmingham,LNWR,Neale,1906,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,North,late
+32167_636897_0246-00012.jpg,LNER_Birmingham,Birmingham,LNWR,Turner,1902,,1,8.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Ely Works,late
+32167_636897_0246-00012.jpg,LNER_Birmingham,Birmingham,LNWR,Groom,1906,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Ely Works,late
+32167_636897_0246-00012.jpg,LNER_Birmingham,Birmingham,LNWR,Challoner,1913,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00012.jpg,LNER_Birmingham,Birmingham,LNWR,Harrod,1901,,1,10.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Ely Works,late
+32167_636897_0246-00012.jpg,LNER_Birmingham,Birmingham,LNWR,George,1899,,1,12.0,0,1,13.085,Dudley,0,0.3513513513513513,1,Removed,Removed from Salaried Staff. Transferred to Thursday 16.6.06 from Salaried Staff. Transferred to Salaried Staff 25.5.11,late
+32167_636897_0246-00012.jpg,LNER_Birmingham,Birmingham,LNWR,Veryard,1890,,1,18.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Ely (Shunter) Temporary Salaried Staff. Salaried Staff from 1.1.1909. Transferred to Ely Shunter 2.8.1914. Saturday 3rd July,post_collapse
+32167_636897_0246-00013.jpg,LNER_Birmingham,Birmingham,LNWR,Pemberton,1900,,1,12.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Trafford,late
+32167_636897_0246-00013.jpg,LNER_Birmingham,Birmingham,LNWR,Bosworth,1905,,1,7.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Trafford (Widnes),late
+32167_636897_0246-00013.jpg,LNER_Birmingham,Birmingham,LNWR,Emmett,1898,,1,14.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Left Stockton from 3.9.12,late
+32167_636897_0246-00013.jpg,LNER_Birmingham,Birmingham,LNWR,Beattie,1911,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Left Stockton from 2.7.14,late
+32167_636897_0246-00013.jpg,LNER_Birmingham,Birmingham,LNWR,Blakemore,1911,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Widest Hickson position at Stockton. Hickson also made in 15.10.11. In Stockton promotion and employed conditions in 1911 left 19.5.12. Dates 1.9.11 Stockton. Hickson left 15.10.11 and appointed from his 15.10.11 promotion. See notes,late
+32167_636897_0246-00013.jpg,LNER_Birmingham,Birmingham,LNWR,Blatherwick,1889,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Trafford. Summoned from the service 15.9.23 15/9/23,post_collapse
+32167_636897_0246-00013.jpg,LNER_Birmingham,Birmingham,LNWR,Thich,1905,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Made fords Gd. moved & some circumstances at Wilkinson - seconded,late
+32167_636897_0246-00013.jpg,LNER_Birmingham,Birmingham,LNWR,Hatton,1910,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Trafford (Sk). Transferred to Hoyne St (Page 3) with post 9.11.21. 31/8/1917,late
+32167_636897_0246-00013.jpg,LNER_Birmingham,Birmingham,LNWR,Trafford,1910,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Trafford (Oldball). Foot Shunthouse to Blunted 4.5.11. 19/1/1923,late
+32167_636897_0246-00014.jpg,LNER_Birmingham,Birmingham,LNWR,Edward J,1910,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,3 Gorsts (Walsall),late
+32167_636897_0246-00014.jpg,LNER_Birmingham,Birmingham,LNWR,Floyd T,1911,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Army July 1915 Returned 18th 1919,late
+32167_636897_0246-00014.jpg,LNER_Birmingham,Birmingham,LNWR,Fulton S,1909,,1,6.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,3 Gorsts (Walsall),late
+32167_636897_0246-00014.jpg,LNER_Birmingham,Birmingham,LNWR,Gould F,1910,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Army June 1916 Returned 1.1.1917,late
+32167_636897_0246-00014.jpg,LNER_Birmingham,Birmingham,LNWR,Lemon G,1912,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,3 Gorsts (Walsall) Left from 10.7.23 Returned away 7.8.23 Left Chance 3rd 8.23 & 9/8/2329,late
+32167_636897_0246-00014.jpg,LNER_Birmingham,Birmingham,LNWR,Sharp J,1911,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,3 Gorsts (Walsall),late
+32167_636897_0246-00014.jpg,LNER_Birmingham,Birmingham,LNWR,Hugh WH,1911,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,3 Gorsts (Walsall),late
+32167_636897_0246-00014.jpg,LNER_Birmingham,Birmingham,LNWR,Simmons,1910,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,3 Gorsts (Walsall) Transferred Elizabeth (Age) Walsall July 1921 8/8/2327,late
+32167_636897_0246-00015.jpg,LNER_Birmingham,Birmingham,LNWR,Harris,1911,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Considered as Irregular. Goods (Goods goods) 23/10/23,late
+32167_636897_0246-00015.jpg,LNER_Birmingham,Birmingham,LNWR,Llewellyn,1911,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Considered as Irregular. Goods (Goods goods) 23/10/23. Llewellyn 1. W. 3/6 | Considered as Irregular. Goods (Goods goods) 23/10/23,late
+32167_636897_0246-00015.jpg,LNER_Birmingham,Birmingham,LNWR,Llewellyn,1911,,1,6.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Considered as Irregular. Goods (Goods goods) 23/10/23. Llewellyn 1. W. 3/6 | Considered as Irregular. Goods (Goods goods) 23/10/23,late
+32167_636897_0246-00015.jpg,LNER_Birmingham,Birmingham,LNWR,Walton,1912,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorta (Wilts),late
+32167_636897_0246-00015.jpg,LNER_Birmingham,Birmingham,LNWR,Pitcher W.A,1914,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorta (Wilts),late
+32167_636897_0246-00015.jpg,LNER_Birmingham,Birmingham,LNWR,Smart T.H,1912,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorta (Wilts). Remained for shift 21/2/22,late
+32167_636897_0246-00015.jpg,LNER_Birmingham,Birmingham,LNWR,Waughton W.F,1913,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorta (Bridge),late
+32167_636897_0246-00015.jpg,LNER_Birmingham,Birmingham,LNWR,Orells F,1912,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorta (ELTRA),late
+32167_636897_0246-00015.jpg,LNER_Birmingham,Birmingham,LNWR,Linnemannn,1913,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorta (Jim Lane). Transferred & Demoted (Uyets) with poll. 7.11.21 5/25/1917,late
+32167_636897_0246-00015.jpg,LNER_Birmingham,Birmingham,LNWR,Bickerton,1914,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorta (Walsing). & Demoted (Uyets) 5.1.23 5/18/1935,late
+32167_636897_0246-00016.jpg,LNER_Birmingham,Birmingham,LNWR,Hugh,1913,,1,6.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00016.jpg,LNER_Birmingham,Birmingham,LNWR,Hopfield,1912,,1,2.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00016.jpg,LNER_Birmingham,Birmingham,LNWR,Doyle,1913,,1,6.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00016.jpg,LNER_Birmingham,Birmingham,LNWR,Stephens,1914,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00016.jpg,LNER_Birmingham,Birmingham,LNWR,Drummond,1914,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00017.jpg,LNER_Birmingham,Birmingham,LNWR,Widdowson,1864,,1,16.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Hired 3rd at Walsall 22.3.1 & 24.11.50,pre_1875
+32167_636897_0246-00017.jpg,LNER_Birmingham,Birmingham,LNWR,Summerfield,1882,,1,38.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Walsall 1903 w/e 10 22.3.1 & 24.11.50 To Queen Eleanor (Ld's) Ascot No.6 on Green Emma 8.7.1905 Transferred to Green Emma on Green Emma from 29.3.22.E. 9.2.23. (J.M.11.09),union_collapse
+32167_636897_0246-00017.jpg,LNER_Birmingham,Birmingham,LNWR,Shackleton,1884,,1,36.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Walsall Platform Bdles 3 Blds 10 20.4.40 for Lds Walsall 26.6.20 3.6.21 Sandwich 17.11.21 Bds 6.20 3.6.21 Sandwich 17.11.21,post_collapse
+32167_636897_0246-00017.jpg,LNER_Birmingham,Birmingham,LNWR,Mertin,1886,,1,34.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Walsall Platform Bdles 3 Blds 10 20.4.40 for Lds Walsall 26.6.20 3.6.21 Sandwich 17.11.21,post_collapse
+32167_636897_0246-00017.jpg,LNER_Birmingham,Birmingham,LNWR,Alcock,1886,,1,34.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Walsall Platform Bdles 3 Blds 10 20.4.40 for Lds Walsall 26.6.20 3.6.21 Sandwich 17.11.21,post_collapse
+32167_636897_0246-00017.jpg,LNER_Birmingham,Birmingham,LNWR,Woodhouse,1887,,1,33.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Walsall Platform Bdles 3 Blds 10 20.4.40 for Lds Walsall 26.6.20 3.6.21 Sandwich 17.11.21,post_collapse
+32167_636897_0246-00017.jpg,LNER_Birmingham,Birmingham,LNWR,Bradshaw,1888,,1,32.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Walsall Platform Bdles 3 Blds 10 20.4.40 for Lds Walsall 26.6.20 3.6.21 Sandwich 17.11.21,post_collapse
+32167_636897_0246-00017.jpg,LNER_Birmingham,Birmingham,LNWR,Ansell,1889,,1,31.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Walsall Platform Bdles 3 Blds 10 20.4.40 for Lds Walsall 26.6.20 3.6.21 Sandwich 17.11.21,post_collapse
+32167_636897_0246-00017.jpg,LNER_Birmingham,Birmingham,LNWR,Adson,1889,,1,31.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Walsall Platform Bdles 3 Blds 10 20.4.40 for Lds Walsall 26.6.20 3.6.21 Sandwich 17.11.21,post_collapse
+32167_636897_0246-00017.jpg,LNER_Birmingham,Birmingham,LNWR,Benn,1919,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Walsall Platform Bdles 3 Blds 10 20.4.40 for Lds Walsall 26.6.20 3.6.21 Sandwich 17.11.21,late
+32167_636897_0246-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Adams F,1919,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Appointed to Church (Wolverhampton) 5.11.21,late
+32167_636897_0246-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Wainwright H,1919,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703,late
+32167_636897_0246-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Summers J,1919,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703,late
+32167_636897_0246-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Wainwright H,1919,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703,late
+32167_636897_0246-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Hartley TE,1919,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703,late
+32167_636897_0246-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Green L G,1919,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703,late
+32167_636897_0246-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Irving C J,1919,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703,late
+32167_636897_0246-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Hadley M,1919,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703,late
+32167_636897_0246-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Hadley H,1919,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703,late
+32167_636897_0246-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Hadley H,1919,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703,late
+32167_636897_0246-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Hadley H,1919,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703,late
+32167_636897_0246-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Hadley H,1919,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703,late
+32167_636897_0246-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Hadley H,1919,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703 | To Pelsall (Grade 2) Married June 27.11.21 No well on Goods Guard (Code 1/3/1920) 5.5.20.703,late
+32167_636897_0246-00019.jpg,LNER_Birmingham,Birmingham,LNWR,Hart Fir,1870,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Walsall Goods at Walsall 10.7.75. Transferred to Goods Guard from goods. Staff struck,pre_1875
+32167_636897_0246-00019.jpg,LNER_Birmingham,Birmingham,LNWR,Rudd,1878,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Walsall Goods at Walsall 10.7.75. Transferred to Goods Guard from goods. Staff struck,union_peak
+32167_636897_0246-00019.jpg,LNER_Birmingham,Birmingham,LNWR,Shelton,1880,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Walsall Goods at Walsall 15.2.81. Transferred to Goods Guard from goods. Staff struck,union_collapse
+32167_636897_0246-00019.jpg,LNER_Birmingham,Birmingham,LNWR,Shelton,1884,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,post_collapse
+32167_636897_0246-00019.jpg,LNER_Birmingham,Birmingham,LNWR,Hammonds,1891,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00019.jpg,LNER_Birmingham,Birmingham,LNWR,Hammonds,1898,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00019.jpg,LNER_Birmingham,Birmingham,LNWR,Bradbury,1887,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resignation,Resignation by Walsall. From Runcorn at 8.4.87 to Walsall 8.4.87,post_collapse
+32167_636897_0246-00019.jpg,LNER_Birmingham,Birmingham,LNWR,Davis,1888,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,post_collapse
+32167_636897_0246-00019.jpg,LNER_Birmingham,Birmingham,LNWR,Kimberly,1887,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,post_collapse
+32167_636897_0246-00019.jpg,LNER_Birmingham,Birmingham,LNWR,Bradbury,1885,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,post_collapse
+32167_636897_0246-00019.jpg,LNER_Birmingham,Birmingham,LNWR,Eaton,1911,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Harris,1919,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Transferred for A Brickley 15.7.22,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Coppard,1905,,1,15.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,From Coventry 24.1.19.11.22 & Coventry 1/2.0.0.22,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Young,1919,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,From Coventry 24.1.19.11.22 & Coventry 1/2.0.0.22,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Boulton,1905,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,From Coventry 24.1.19.11.22 & Coventry 1/2.0.0.22,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Smith,1910,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,From Banbury 2.1.22 6/5/1911,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Baker,1912,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Reinstated as Goods Shunter 2.1.24 (Opp.e with 13 days) 6/5/1911,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Hemmingford,1912,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,From Coventry 24.12.22 & Coventry 1/2.0.0.22,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Harty,1894,,1,,0,1,13.085,Dudley,0,0.3513513513513513,1,discharged,Regular Goods discharged 1.6.23,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Whittle,1894,,1,,0,1,13.085,Dudley,0,0.3513513513513513,1,discharged,Regular Goods discharged 1.6.23,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Wainwright,1908,,1,,0,1,13.085,Dudley,0,0.3513513513513513,1,discharged,Regular Goods discharged 1.6.23,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Swingler,1914,,1,,0,1,13.085,Dudley,0,0.3513513513513513,1,discharged,Regular Goods discharged 1.6.23,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Emmett,1914,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,discharged,Regular Goods discharged 1.6.23,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Smith,1919,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Discharged,Discharged for lunacy 12.1.26,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Richardson,1920,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Conspiracy additional Ballard Walsall 2.1.26 (Opp.e with 13 days) 6/5/1911,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Hancock,1923,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Conspiracy additional Ballard Walsall 2.1.26 (Opp.e with 13 days) 6/5/1911,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Pugh,1921,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Conspiracy additional Ballard Walsall 2.1.26 (Opp.e with 13 days) 6/5/1911,late
+32167_636897_0246-00020.jpg,LNER_Birmingham,Birmingham,LNWR,Jones,1911,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Conspiracy additional Ballard Walsall 2.1.26 (Opp.e with 13 days) 6/5/1911,late
+32167_636897_0246-00021.jpg,LNER_Birmingham,Birmingham,LNWR,Roe E. W.,1894,,1,2.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Porter Ordinary (Goods) | Porter Dunnelway (Goods) | Porter Ordinary (Goods) | Porter Dunnelway (Goods),late
+32167_636897_0246-00021.jpg,LNER_Birmingham,Birmingham,LNWR,Smalley 10th,1897,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Porter Ordinary (Goods) | Porter Dunnelway (Goods) | Porter Ordinary (Goods) | Porter Dunnelway (Goods),late
+32167_636897_0246-00021.jpg,LNER_Birmingham,Birmingham,LNWR,Ling. Jno.,1900,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Porter Ordinary (Goods) | Porter Dunnelway (Goods) | Porter Ordinary (Goods) | Porter Dunnelway (Goods),late
+32167_636897_0246-00021.jpg,LNER_Birmingham,Birmingham,LNWR,Nuttman,1896,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Porter Ordinary (Goods) | Porter Dunnelway (Goods) | Porter Ordinary (Goods) | Porter Dunnelway (Goods),late
+32167_636897_0246-00021.jpg,LNER_Birmingham,Birmingham,LNWR,Alderton,1897,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Porter Ordinary (Goods) | Porter Dunnelway (Goods) | Porter Ordinary (Goods) | Porter Dunnelway (Goods),late
+32167_636897_0246-00021.jpg,LNER_Birmingham,Birmingham,LNWR,Edmonds,1894,,1,2.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Porter Ordinary (Goods) | Porter Dunnelway (Goods) | Porter Ordinary (Goods) | Porter Dunnelway (Goods),late
+32167_636897_0246-00024.jpg,LNER_Birmingham,Birmingham,LNWR,Unwell W,1871,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorton Returned June 10 1882,pre_1875
+32167_636897_0246-00024.jpg,LNER_Birmingham,Birmingham,LNWR,Hatch W H,1879,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Retired 9.10.21,union_peak
+32167_636897_0246-00024.jpg,LNER_Birmingham,Birmingham,LNWR,Beale A,1879,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Retired 28.11.22,union_peak
+32167_636897_0246-00024.jpg,LNER_Birmingham,Birmingham,LNWR,Williams T,1883,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Deceased 13/10/21. Slipped. Why in Shl bank,post_collapse
+32167_636897_0246-00024.jpg,LNER_Birmingham,Birmingham,LNWR,Lewis J,1884,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Wagon Left 23/2/24 (5 years with Wagon Left) Why in Shl bank,post_collapse
+32167_636897_0246-00024.jpg,LNER_Birmingham,Birmingham,LNWR,Everall W,1884,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorton Left light 5 & Denbighton (Old Sleeper) 5.10.1908,post_collapse
+32167_636897_0246-00024.jpg,LNER_Birmingham,Birmingham,LNWR,Wightman,1879,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Sick from 22.1.82 Slipped Off,union_peak
+32167_636897_0246-00024.jpg,LNER_Birmingham,Birmingham,LNWR,Smith W,1881,,1,9.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,union_collapse
+32167_636897_0246-00024.jpg,LNER_Birmingham,Birmingham,LNWR,Sharpe S,1884,,1,7.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,post_collapse
+32167_636897_0246-00025.jpg,LNER_Birmingham,Birmingham,LNWR,Turner HK,1890,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,T. Gords 15/1/01,post_collapse
+32167_636897_0246-00025.jpg,LNER_Birmingham,Birmingham,LNWR,Tuck J,1889,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,T. Gords (Tyfon) 20.12.97,post_collapse
+32167_636897_0246-00025.jpg,LNER_Birmingham,Birmingham,LNWR,Hill JE,1892,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,T. Wren Jct 2/10/92 Kilby in Sht Hank,late
+32167_636897_0246-00025.jpg,LNER_Birmingham,Birmingham,LNWR,Simmons W,1892,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,T. Lees Jct 17.11.92 Kilby on Sht Hank,late
+32167_636897_0246-00025.jpg,LNER_Birmingham,Birmingham,LNWR,Boulton J,1891,,1,2.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,T. Gords Sdt 44,late
+32167_636897_0246-00025.jpg,LNER_Birmingham,Birmingham,LNWR,Bluff W,1894,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,T. Gords Sdt 44,late
+32167_636897_0246-00025.jpg,LNER_Birmingham,Birmingham,LNWR,Williams HJ,1894,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,T. Gords Jct 94,late
+32167_636897_0246-00025.jpg,LNER_Birmingham,Birmingham,LNWR,Everell E,1894,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,T. Gords Jct 94,late
+32167_636897_0246-00026.jpg,LNER_Birmingham,Birmingham,LNWR,Jackman Jnr,1894,,1,2.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorton Sept 96,late
+32167_636897_0246-00026.jpg,LNER_Birmingham,Birmingham,LNWR,Swanson P.J,1895,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorton Dec 96,late
+32167_636897_0246-00026.jpg,LNER_Birmingham,Birmingham,LNWR,Clegg T.D,1894,,1,2.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Gorton Dec 96,late
+32167_636897_0246-00026.jpg,LNER_Birmingham,Birmingham,LNWR,Stone W,1896,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,To Ardsley Aug 1904 Resigned 25/1/04,late
+32167_636897_0246-00026.jpg,LNER_Birmingham,Birmingham,LNWR,Webb H,1896,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Dore Depot (Sops) 2/1/97,late
+32167_636897_0246-00026.jpg,LNER_Birmingham,Birmingham,LNWR,Blakeley J,1911,,1,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,1.9.11.24 Transferred to Gorton (Sops) 2/1/47 Resigned 1.1.13 and also taken on reserved list,late
+32167_636897_0246-00026.jpg,LNER_Birmingham,Birmingham,LNWR,Jett C.E,1896,,1,2.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00026.jpg,LNER_Birmingham,Birmingham,LNWR,Wright J.J,1911,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00026.jpg,LNER_Birmingham,Birmingham,LNWR,Shelton J,1892,,1,15.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00028.jpg,LNER_Birmingham,Birmingham,LNWR,Willetts,1884,,1,25.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pto Gds Grd,post_collapse
+32167_636897_0246-00028.jpg,LNER_Birmingham,Birmingham,LNWR,Cullmoney,1885,,1,24.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pto Gds Grd,post_collapse
+32167_636897_0246-00028.jpg,LNER_Birmingham,Birmingham,LNWR,Jones,1876,,1,33.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pto Gds Grd,union_peak
+32167_636897_0246-00028.jpg,LNER_Birmingham,Birmingham,LNWR,Lathrop,1886,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pto Gds Grd. 1st Corpl since 1912. Appeared with bad sight,post_collapse
+32167_636897_0246-00028.jpg,LNER_Birmingham,Birmingham,LNWR,Jones Bird,1886,,1,23.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pto Gds Grd,post_collapse
+32167_636897_0246-00028.jpg,LNER_Birmingham,Birmingham,LNWR,Marchant,1886,,1,23.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pto Gds Grd,post_collapse
+32167_636897_0246-00028.jpg,LNER_Birmingham,Birmingham,LNWR,Walsh,1886,,1,24.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pto Gds Grd,post_collapse
+32167_636897_0246-00028.jpg,LNER_Birmingham,Birmingham,LNWR,Roberts,1889,,1,21.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To Pto Gds Grd,post_collapse
+32167_636897_0246-00028.jpg,LNER_Birmingham,Birmingham,LNWR,Solem,1909,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,To Pto Gds Grd. 10.6.15 Resigned & join army. 15.8.19 Appeared with boy as Gds Grd,late
+32167_636897_0246-00029.jpg,LNER_Birmingham,Birmingham,LNWR,Fuller EH,1894,,1,17.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,to Olds Ford,late
+32167_636897_0246-00029.jpg,LNER_Birmingham,Birmingham,LNWR,Whitcroft,1904,,1,8.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,to Olds Ford,late
+32167_636897_0246-00029.jpg,LNER_Birmingham,Birmingham,LNWR,Fletcher G,1902,,1,10.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,to Olds Ford,late
+32167_636897_0246-00029.jpg,LNER_Birmingham,Birmingham,LNWR,Jones J,1909,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,to Olds Ford,late
+32167_636897_0246-00029.jpg,LNER_Birmingham,Birmingham,LNWR,Forman W,1907,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,to Olds Ford,late
+32167_636897_0246-00029.jpg,LNER_Birmingham,Birmingham,LNWR,Giles G,1894,,1,18.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,to Olds Ford,late
+32167_636897_0246-00029.jpg,LNER_Birmingham,Birmingham,LNWR,Lockhart G,1893,,1,19.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,to Olds Ford,late
+32167_636897_0246-00029.jpg,LNER_Birmingham,Birmingham,LNWR,Willcroft F,1900,,1,12.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,to Olds Ford,late
+32167_636897_0246-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Richards W,1910,,1,9.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Left to Leamington Sidings 12.1.12. Remained at goods side shift 24.10. Remained at goods side shift 24.10,late
+32167_636897_0246-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Minton H,1911,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Remained at Goods High shift 24.10. Father demobilisation,late
+32167_636897_0246-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Cox W,1907,,1,8.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,At Doming Shift 19.10. Remained in Goods shift from 1916. At Forest should return,late
+32167_636897_0246-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Abbotts J,1911,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Remained at Doming shift 4.1.15. Remained on 24.2.19 shift 24.10. Taken over as Rigel same day,late
+32167_636897_0246-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Cartwright J,1905,,1,10.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Remained on Goods shift 7.2.19. After being demobilised. Remained on Goods shift 24.10,late
+32167_636897_0246-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Penned E,1909,,1,6.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Remained to Doming shift 24.10. Remained on Goods shift 24.10,late
+32167_636897_0246-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Mortimer W,1912,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Boyce W,1911,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Sharpe J,1915,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0246-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Hughes S,1920,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Remained as first shift. Demobilised 23.10.19. Remained as Goods shift 24.10,late
+32167_636897_0246-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Evans J,1910,,1,6.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Disappeared to absent (large) sold feet. 7.7.21. 23.8.1877. Shifted J.L. Murch 24.10.21 (age 29) Signally,late
+32167_636897_0246-00033.jpg,LNER_Birmingham,Birmingham,LNWR,Forster W.C.,1913,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,1,Dismissed,Dismissed in May 1916. P. 28.2.19 among 6 hours on Sundays,late
+32167_636897_0246-00033.jpg,LNER_Birmingham,Birmingham,LNWR,Bowers J.H.,1912,,1,2.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Licence to Goods Shunter (L&S) Euston & Dorm 16 & 22. (P.S.Dorm),late
+32167_636897_0246-00033.jpg,LNER_Birmingham,Birmingham,LNWR,Butler F.E.V.,1913,,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,1,Dismissed,Dismissed as Blacklisted 4.7. (25.2.19 among 6 hours on Sundays),late
+32167_636897_0246-00033.jpg,LNER_Birmingham,Birmingham,LNWR,Bromley J.,1912,,1,2.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Licence to Goods Shunter (L&S) Euston & Dorm 16 & 22,late
+32167_636897_0246-00033.jpg,LNER_Birmingham,Birmingham,LNWR,Ralph W.,1911,,1,3.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Licence to Goods Shunter (L&S) Euston & Dorm 16 & 22,late
+32167_636897_0246-00033.jpg,LNER_Birmingham,Birmingham,LNWR,Chiswick Wm.,1911,,1,8.0,0,1,13.085,Dudley,0,0.3513513513513513,1,Discharged,Discharged at 1st Feby 16-5-20 (P.S. Dorm 23/10/1903),late
+32167_636897_0246-00033.jpg,LNER_Birmingham,Birmingham,LNWR,Venables J.,1912,,1,7.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Commenced as Goods Shunter (L&S) 24/9/10 among 6 hours on duty,late
+32167_636897_0316-00004.jpg,LNER_Birmingham,Birmingham,LNWR,Strickland Robson,1879,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Retired 31/10/07. Age 50. The Safeguard S.F.2 2 Jun 61. Soft 8/1/29 Sofas.,union_peak
+32167_636897_0316-00004.jpg,LNER_Birmingham,Birmingham,LNWR,Headsman Ivor,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Retired 21/10/08. 1 11 27 from below from below,union_peak
+32167_636897_0316-00004.jpg,LNER_Birmingham,Birmingham,LNWR,Duane Atkinson,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,union_peak
+32167_636897_0316-00005.jpg,LNER_Birmingham,Birmingham,LNWR,Gresley John,1882,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Retired 31/1/20,union_collapse
+32167_636897_0316-00005.jpg,LNER_Birmingham,Birmingham,LNWR,Ackton Jas Henry,1890,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,post_collapse
+32167_636897_0316-00005.jpg,LNER_Birmingham,Birmingham,LNWR,Pitt John Edward,1880,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,union_collapse
+32167_636897_0316-00005.jpg,LNER_Birmingham,Birmingham,LNWR,Suckley Joseph,1865,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,pre_1875
+32167_636897_0316-00007.jpg,LNER_Birmingham,Birmingham,LNWR,E Knott,1896,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Additional Post. Kept for 6-3. appld. 5/5/25. SCL 19/11/28,late
+32167_636897_0316-00008.jpg,LNER_Birmingham,Birmingham,LNWR,William Pickering,1879,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,4/7 p 20,union_peak
+32167_636897_0316-00013.jpg,LNER_Birmingham,Birmingham,LNWR,"Harmer, John E",1886,Engine Driver,1,36.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Aug Plan to have 22. Ht to Sth Aft from p 55. Dr 25/08 from p 55,post_collapse
+32167_636897_0316-00013.jpg,LNER_Birmingham,Birmingham,LNWR,"Buckley, Walter E",1911,Engine Driver,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00013.jpg,LNER_Birmingham,Birmingham,LNWR,"Thomas, John E",1901,Engine Driver,1,21.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00013.jpg,LNER_Birmingham,Birmingham,LNWR,"Woodall, John Henry",1885,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Removed,to page 20. f p 01 from p 56. Removed Class A Rest,post_collapse
+32167_636897_0316-00013.jpg,LNER_Birmingham,Birmingham,LNWR,"Woodall, Richard E",1907,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00013.jpg,LNER_Birmingham,Birmingham,LNWR,"Lynch, Charles E",1922,Engine Driver,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,same as to page 20. from p 12,late
+32167_636897_0316-00013.jpg,LNER_Birmingham,Birmingham,LNWR,"Thornton, George E",1922,Engine Driver,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00013.jpg,LNER_Birmingham,Birmingham,LNWR,"Stephens, James E",1907,Engine Driver,1,15.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00013.jpg,LNER_Birmingham,Birmingham,LNWR,"Thorncraft, John E",1899,Engine Driver,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00013.jpg,LNER_Birmingham,Birmingham,LNWR,"Carr, William Simon E",1911,Engine Driver,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00013.jpg,LNER_Birmingham,Birmingham,LNWR,"Stoppard, John Hen Leander, John E",1911,Engine Driver,1,11.0,0,1,13.085,Dudley,0,0.3513513513513513,1,Removed,Aft Plan Deceased 11/5/21. Transfrd to Trafford from page 56. Stress from page 56. Transferred to Trafford Aft 12/1/21 from page 56. Aft 15 Transferred to Trafford Aft 1.10.10 Removed Class A Rest,late
+32167_636897_0316-00015.jpg,LNER_Birmingham,Birmingham,LNWR,Marwood-Holt by Curtis Ng June Hile E,1883,,1,40.0,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,From No.52. Resigned,post_collapse
+32167_636897_0316-00015.jpg,LNER_Birmingham,Birmingham,LNWR,Bowman two pd,1884,,1,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Resigned April 15 To Regt 86 (Oldport) p.50,post_collapse
+32167_636897_0316-00015.jpg,LNER_Birmingham,Birmingham,LNWR,Gent hice Approved Obtain Chargne,1883,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,May 16 from colours p.50,post_collapse
+32167_636897_0316-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Anselson Spencer (or Anselson alias Legmore),1905,Engine Driver,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,to page 3,late
+32167_636897_0316-00018.jpg,LNER_Birmingham,Birmingham,LNWR,"Sanderson Metchison (or Alexander Bramble, Fennell Wethman)",1905,Engine Driver,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,from p. 20,late
+32167_636897_0316-00018.jpg,LNER_Birmingham,Birmingham,LNWR,"Southward, Reginald",1902,Engine Driver,1,2.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,"Deceased 9.9.14, from p. 57",late
+32167_636897_0316-00018.jpg,LNER_Birmingham,Birmingham,LNWR,"Belson Jacob (or Emmett E, Hound Theofor So)",1907,Engine Driver,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,"Retired, from p. 57",late
+32167_636897_0316-00018.jpg,LNER_Birmingham,Birmingham,LNWR,"Bertrand Hennessy (or Sidney Pearce, Chappell, Hoy Isaac)",1898,Engine Driver,1,6.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,from p. 79,late
+32167_636897_0316-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Hampden Hennessy (or Unsworth Beardmore Petch),1911,Engine Driver,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,from p. 89,late
+32167_636897_0316-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Dawes Yetman,1905,Engine Driver,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00018.jpg,LNER_Birmingham,Birmingham,LNWR,Lauder Hellman,1907,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00022.jpg,LNER_Birmingham,Birmingham,LNWR,Howard Edward Harris,1911,,1,9.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Dte 1923 Post regarded Clerk & S 11.8.10 n transfer to page 52 Clerical Staff Book,late
+32167_636897_0316-00022.jpg,LNER_Birmingham,Birmingham,LNWR,Hathersay John for Henry W Jno,1864,,1,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Aug 5 Resigned 18.8,pre_1875
+32167_636897_0316-00022.jpg,LNER_Birmingham,Birmingham,LNWR,Hatton Richard Pearson John,1880,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Dte 15 Resigned 20.10.19,union_collapse
+32167_636897_0316-00022.jpg,LNER_Birmingham,Birmingham,LNWR,Heck William,1865,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,pre_1875
+32167_636897_0316-00022.jpg,LNER_Birmingham,Birmingham,LNWR,Hensley William,1886,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,post_collapse
+32167_636897_0316-00022.jpg,LNER_Birmingham,Birmingham,LNWR,Henwell Mathew Gerard,1904,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00022.jpg,LNER_Birmingham,Birmingham,LNWR,Henry Ty Edward Sutton Robert Smith,1905,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Dte over lis 1913 to N 71,late
+32167_636897_0316-00023.jpg,LNER_Birmingham,Birmingham,LNWR,Redmond Denis,1902,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00023.jpg,LNER_Birmingham,Birmingham,LNWR,Jenson,1907,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00023.jpg,LNER_Birmingham,Birmingham,LNWR,Lovell Swinton,1906,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Got to Resigned 9/6/20 from p. 52 to Bletchley 22.2.20,late
+32167_636897_0316-00023.jpg,LNER_Birmingham,Birmingham,LNWR,Harrison Samuel,1926,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,May 20 Relieved 11/1/20 from p. 6M,late
+32167_636897_0316-00023.jpg,LNER_Birmingham,Birmingham,LNWR,Wallace William,1920,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00023.jpg,LNER_Birmingham,Birmingham,LNWR,Paul Arthur Fox,1890,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,post_collapse
+32167_636897_0316-00023.jpg,LNER_Birmingham,Birmingham,LNWR,Mason George,1906,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Aug 7M To page 100 for p. 52 for p. 10 for p. 50,late
+32167_636897_0316-00023.jpg,LNER_Birmingham,Birmingham,LNWR,Partridge Alfred,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,union_peak
+32167_636897_0316-00024.jpg,LNER_Birmingham,Birmingham,LNWR,Latham James,1896,,1,16.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Post brought from Cannock (page 22) A,late
+32167_636897_0316-00024.jpg,LNER_Birmingham,Birmingham,LNWR,Stevens Chas Hy,1873,Fireman,1,39.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Post brought from Cannock (page 22) A,pre_1875
+32167_636897_0316-00024.jpg,LNER_Birmingham,Birmingham,LNWR,Sutton Thomas,1884,Engine Driver,1,28.0,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Resigned 12.V.29 Added Sec left 10/11/26 A,post_collapse
+32167_636897_0316-00024.jpg,LNER_Birmingham,Birmingham,LNWR,Daunce Walter,1884,Engine Driver,1,28.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Post brought from Walsall Dock - page 16 A,post_collapse
+32167_636897_0316-00026.jpg,LNER_Birmingham,Birmingham,LNWR,Pear Welkham,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Foot sickness - a class. Post from page 20 May 1903 Seniority 1,union_peak
+32167_636897_0316-00026.jpg,LNER_Birmingham,Birmingham,LNWR,Lee Munroe,1877,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Feb 1923 Reduced 30/1/23 Post from page 19 from p. 21,union_peak
+32167_636897_0316-00026.jpg,LNER_Birmingham,Birmingham,LNWR,Barron Hemming,1884,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Retired 15/8/09 Post from page 7a Joint book. x,post_collapse
+32167_636897_0316-00028.jpg,LNER_Birmingham,Birmingham,LNWR,Farthingdon Charles H,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Page 38,union_peak
+32167_636897_0316-00028.jpg,LNER_Birmingham,Birmingham,LNWR,Southwood A,1911,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Page 32,late
+32167_636897_0316-00028.jpg,LNER_Birmingham,Birmingham,LNWR,Bentley Mr Slater,1920,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,discharged,Change of designation. Recd discharged with - Feb 1920 S.C.L.,late
+32167_636897_0316-00028.jpg,LNER_Birmingham,Birmingham,LNWR,Hundley des Barry Junior Porter,1929,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Appled d&L N.E.S sq. Foot reduced from Clerks G.S. 29 Clerks Road Foot Reduced 30L 6.7.6 19.2.29,late
+32167_636897_0316-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Sargeson Shea M,1887,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Removed,Sick in. To page 58. (Removed 26/7/3) Relinquished Duties Clun,post_collapse
+32167_636897_0316-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Southwood Reg,1898,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,discharged,"Sick 1923 to page 57, for p. 58. Post discharged with SCL 6/6 13/3/26.",late
+32167_636897_0316-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Howard Thorold,1904,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,discharged,"Sick 1923 to page 56, for p. 51. Post discharged with SCL 6/6 13/3/26.",late
+32167_636897_0316-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Andrews Herbert,1904,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,discharged,"Sept 1923 To below, for p. 52. Post discharged with SCL 6/6 13/3/26.",late
+32167_636897_0316-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Watkinson Stanley,1904,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,discharged,"Jan 1920 To below, for p. 51. Post discharged with Jan 1923 SCL.",late
+32167_636897_0316-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Aukers Herbert,1904,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,from above. Additional Post (Sept 1923 SCL),late
+32167_636897_0316-00032.jpg,LNER_Birmingham,Birmingham,LNWR,Wilkinson Saint,1904,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Additional Post (Jan 1923 SCL),late
+32167_636897_0316-00034.jpg,LNER_Birmingham,Birmingham,LNWR,Dunne Francis,1907,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00034.jpg,LNER_Birmingham,Birmingham,LNWR,Hassett Jno W,1904,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00034.jpg,LNER_Birmingham,Birmingham,LNWR,Marin Robert,1904,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00036.jpg,LNER_Birmingham,Birmingham,LNWR,Bryan George Lewis Baldwin,1879,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To day to day work 19/9/1901. Expired 3-8-29. Additional Test 4/7/1888,union_peak
+32167_636897_0316-00036.jpg,LNER_Birmingham,Birmingham,LNWR,Arnold Theo Jno,1879,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,union_peak
+32167_636897_0316-00036.jpg,LNER_Birmingham,Birmingham,LNWR,Oscar Nellam,1881,,1,4.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,union_collapse
+32167_636897_0316-00038.jpg,LNER_Birmingham,Birmingham,LNWR,Webb Joseph,1879,,1,7.0,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Nov 20 Resigned 30,union_peak
+32167_636897_0316-00038.jpg,LNER_Birmingham,Birmingham,LNWR,O'Brien John,1880,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Irish 17 of 10/1 25/5/11 to stage 86 Aug 16 to page 85,union_collapse
+32167_636897_0316-00038.jpg,LNER_Birmingham,Birmingham,LNWR,Urquhardt John Osborn,1880,,1,10.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Retired 21/10/11 Paid off 18/10/11,union_collapse
+32167_636897_0316-00038.jpg,LNER_Birmingham,Birmingham,LNWR,Pearson John James,1881,,1,6.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Retired or engaged on weekly basis 26/6/10 M appointed 26/1/26 Apple Soc WR 9/1/26,union_collapse
+32167_636897_0316-00038.jpg,LNER_Birmingham,Birmingham,LNWR,McKee Robt John,1884,,1,5.0,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Resigned 2/4/4 Deceased 9/8/20,post_collapse
+32167_636897_0316-00041.jpg,LNER_Birmingham,Birmingham,LNWR,Lewis Harrison,1879,Shunter,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Funds to page 89. Not required. Rotten,union_peak
+32167_636897_0316-00044.jpg,LNER_Birmingham,Birmingham,LNWR,Euston Harbour,1900,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Resigned 1/7/05. Transferred 29/1/10. Re-appointed Sea. Late 9/8/10,late
+32167_636897_0316-00044.jpg,LNER_Birmingham,Birmingham,LNWR,Williams Wm Leatham,1900,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Retired 9/12/20. S.C.L. 30/1/26,late
+32167_636897_0316-00045.jpg,LNER_Birmingham,Birmingham,LNWR,Joseph John Holt,1880,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Retired 30.1.25. Lost employment with SCL 1.6.25 21.7.25,union_collapse
+32167_636897_0316-00045.jpg,LNER_Birmingham,Birmingham,LNWR,Howard Jas. E.,1894,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Left 11.1.09. Killed July 1909. Resigned 1.8.96 To p.36 To page 82. Exper appointed SCL 1.6.1.24 See page 47 for previous appointment,late
+32167_636897_0316-00045.jpg,LNER_Birmingham,Birmingham,LNWR,Pryor Thomas,1891,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Transferred to Place Syst 27.5.17. Resigned 31.1.20,late
+32167_636897_0316-00045.jpg,LNER_Birmingham,Birmingham,LNWR,Sutton Howard,1908,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00045.jpg,LNER_Birmingham,Birmingham,LNWR,Hardshaw Rose,1892,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00045.jpg,LNER_Birmingham,Birmingham,LNWR,Shumpfage Bethany Henry,1894,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Discharged,Not Discharged 1.6.1917. Tick off 16.1.21. Humphreys p.pitmalis Soc 16.1.24. See page 56 for previous appointment,late
+32167_636897_0316-00046.jpg,LNER_Birmingham,Birmingham,LNWR,Foster,1908,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,New Guard June 1921 Sick. Appointed 30/7/21,late
+32167_636897_0316-00046.jpg,LNER_Birmingham,Birmingham,LNWR,James Wilkinson,1897,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Resigned 21/5/09 4/6/1904. Abbe. Sel. 1908 Sol. Jnr. Jnr & Jnr Stall 31/7/08,late
+32167_636897_0316-00046.jpg,LNER_Birmingham,Birmingham,LNWR,Evesham Wm Thos,1898,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Aged 18 & Wm off Jnr. May 18 to page 90,late
+32167_636897_0316-00046.jpg,LNER_Birmingham,Birmingham,LNWR,Hayguard Geo Francis,1897,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,from p 11,late
+32167_636897_0316-00046.jpg,LNER_Birmingham,Birmingham,LNWR,Herbert Wm Alect,1903,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,May 20 To page 19. May 20 To page 26. In page 21 Abbe Sel. life 21/10/23,late
+32167_636897_0316-00046.jpg,LNER_Birmingham,Birmingham,LNWR,Howard Samson,1904,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Retired 10/12/27 ex S.L.C. 269/21. Abbe Aug 1920 Sel,late
+32167_636897_0316-00046.jpg,LNER_Birmingham,Birmingham,LNWR,Wilkinson Freeth,1896,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,July 20 Old old name as Henry L & b. 1/7/1876. He engaged as Jnr. Sel. 1908 Sel. life 21/10/23,late
+32167_636897_0316-00047.jpg,LNER_Birmingham,Birmingham,LNWR,Barker John Ivor,1892,Engine Driver,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Hired 16/1/25 f.p. 86. Deceased 16/1/25 f.p. 86.,late
+32167_636897_0316-00047.jpg,LNER_Birmingham,Birmingham,LNWR,Smith Henry,1897,Engine Driver,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Deceased 12/1/20,late
+32167_636897_0316-00047.jpg,LNER_Birmingham,Birmingham,LNWR,Adamson Alfred,1880,Engine Driver,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,union_collapse
+32167_636897_0316-00047.jpg,LNER_Birmingham,Birmingham,LNWR,Langley John,1900,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00047.jpg,LNER_Birmingham,Birmingham,LNWR,Buckley Walter Grafton Mowbray Albert,1900,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Killed in action 14/12. Filled in action 1/12. Transferred to page 43.,late
+32167_636897_0316-00047.jpg,LNER_Birmingham,Birmingham,LNWR,Davies George Fowler Robert,1883,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Filled in action 1/12. Deceased 14/1/21 f.p. f.p. 1/2.,post_collapse
+32167_636897_0316-00047.jpg,LNER_Birmingham,Birmingham,LNWR,Olsson John,1900,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00048.jpg,LNER_Birmingham,Birmingham,LNWR,Lloyd Arthur Fowler,1879,,1,16.0,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Resigned 2/9/07,union_peak
+32167_636897_0316-00048.jpg,LNER_Birmingham,Birmingham,LNWR,Thompson George,1877,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,May 26 to page 22,union_peak
+32167_636897_0316-00048.jpg,LNER_Birmingham,Birmingham,LNWR,Colwell Sidney,1917,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00048.jpg,LNER_Birmingham,Birmingham,LNWR,George Edward Hickock,1892,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,To page 86,late
+32167_636897_0316-00048.jpg,LNER_Birmingham,Birmingham,LNWR,Summers Jeremiah,1892,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00048.jpg,LNER_Birmingham,Birmingham,LNWR,Fulton Ebenezer,1892,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00048.jpg,LNER_Birmingham,Birmingham,LNWR,Middleman Leonard,1892,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00048.jpg,LNER_Birmingham,Birmingham,LNWR,Munns Alexander,1918,Engine Driver,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00048.jpg,LNER_Birmingham,Birmingham,LNWR,Acton Thomas,1888,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,post_collapse
+32167_636897_0316-00048.jpg,LNER_Birmingham,Birmingham,LNWR,Woodchurch John Colton,1905,Engine Driver,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00048.jpg,LNER_Birmingham,Birmingham,LNWR,Sadler Charles,1916,Engine Driver,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00048.jpg,LNER_Birmingham,Birmingham,LNWR,Forward George,1892,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00048.jpg,LNER_Birmingham,Birmingham,LNWR,Marsh Wm,1909,,1,0.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00050.jpg,LNER_Birmingham,Birmingham,LNWR,Tom Henry Humphreys Bradshaw,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Resigned monthly leave 18/10 in 1921. Picked off 15/10/21 to page 141. Relieved own request of Paid discharged 1/11/21 with 13/12/21,union_peak
+32167_636897_0316-00050.jpg,LNER_Birmingham,Birmingham,LNWR,Conner Ernest Bart E Gypel,1900,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Aug 15 to page 250. Langwith Notthgd. Appld 9/00. Placed in Coop & Coop,late
+32167_636897_0316-00051.jpg,LNER_Birmingham,Birmingham,LNWR,Norwood Thomas,1874,Engine Driver,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,pre_1875
+32167_636897_0316-00051.jpg,LNER_Birmingham,Birmingham,LNWR,Parker Thomas,1902,Engine Driver,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00051.jpg,LNER_Birmingham,Birmingham,LNWR,Swindlewood Reginald,1898,Engine Driver,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00051.jpg,LNER_Birmingham,Birmingham,LNWR,Dilbert Charles,1904,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00051.jpg,LNER_Birmingham,Birmingham,LNWR,Spearman Edward,1894,Engine Driver,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00051.jpg,LNER_Birmingham,Birmingham,LNWR,Coulthard Thomas,1904,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00051.jpg,LNER_Birmingham,Birmingham,LNWR,Grant Jno Addison,1899,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00051.jpg,LNER_Birmingham,Birmingham,LNWR,Unsworth Jno Ernest,1903,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00051.jpg,LNER_Birmingham,Birmingham,LNWR,Renwick John,1897,Engine Driver,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00051.jpg,LNER_Birmingham,Birmingham,LNWR,Lloyd Alfred,1898,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00051.jpg,LNER_Birmingham,Birmingham,LNWR,Houghton John,1898,Engine Driver,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00051.jpg,LNER_Birmingham,Birmingham,LNWR,Slinn Riche James,1901,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00051.jpg,LNER_Birmingham,Birmingham,LNWR,Fison Wm Edw,1899,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00051.jpg,LNER_Birmingham,Birmingham,LNWR,Emerson Henry,1899,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00051.jpg,LNER_Birmingham,Birmingham,LNWR,Swindlewood Wm Edw,1901,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00052.jpg,LNER_Birmingham,Birmingham,LNWR,Duffton Haldane Fowler,1908,,1,,0,1,13.085,Dudley,0,0.3513513513513513,1,Discharged,Sent to Swindon 12 mths. Discharged 4. 29,late
+32167_636897_0316-00052.jpg,LNER_Birmingham,Birmingham,LNWR,Blanche John Hamer Emoor Jas Geo,1908,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Resigned 11.5.09,late
+32167_636897_0316-00052.jpg,LNER_Birmingham,Birmingham,LNWR,Bosworth Fletcher Harwood Henry Orwell,1908,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Resigned 9.5.09,late
+32167_636897_0316-00052.jpg,LNER_Birmingham,Birmingham,LNWR,Hore Jomer Pjameson Pjames Charles Allsop Shergard Robson,1908,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Resigned 3.1.09,late
+32167_636897_0316-00052.jpg,LNER_Birmingham,Birmingham,LNWR,Howard Blatchley Walker Alfred,1908,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Resigned 5.1.09,late
+32167_636897_0316-00052.jpg,LNER_Birmingham,Birmingham,LNWR,Edward Edward Moss,1907,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00052.jpg,LNER_Birmingham,Birmingham,LNWR,Empreson Shea Hy,1907,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00052.jpg,LNER_Birmingham,Birmingham,LNWR,Emerson 4th Forsyth Lakeywood Shelton Weston Jas Emgett Southwend Thos Emerson George,1907,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Resigned 2.5.09,late
+32167_636897_0316-00053.jpg,LNER_Birmingham,Birmingham,LNWR,Frank Arthur Jack Millington Harry Parker,1903,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Relieved 3/8/22 for p.s.d. Post dispensed with 3d. 1903 S.C.L.,late
+32167_636897_0316-00053.jpg,LNER_Birmingham,Birmingham,LNWR,Francis Gilmore Francis Miss Henry,1907,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Aug 19. To page 81 Pd 5 L.C. 11/1/22 Apple Aug 1922 S.C.L. Pd 5 L.C. 11/1/22 Apple Aug 1922 S.C.L. off 26/1/21 from Aust 1921/22,late
+32167_636897_0316-00053.jpg,LNER_Birmingham,Birmingham,LNWR,Singleton Jas Thos,1873,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Singleton apple S.C.L off of 1/6/. ex S.U.C. 24/9/21 Post from B. Sta.,pre_1875
+32167_636897_0316-00053.jpg,LNER_Birmingham,Birmingham,LNWR,James John Henry,1908,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Out 21st Post regarded Aust 1920 & compound to page 13.,late
+32167_636897_0316-00053.jpg,LNER_Birmingham,Birmingham,LNWR,Wallace Robt Hutton,1881,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Wallace from L. 90 Dated Test 5 F.C.M 15550.,union_collapse
+32167_636897_0316-00055.jpg,LNER_Birmingham,Birmingham,LNWR,Thomas George Fowler,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Apd 13 to page 8 from p.82 Post regarded Paton,union_peak
+32167_636897_0316-00055.jpg,LNER_Birmingham,Birmingham,LNWR,Luther Jat Kimmerly Rushton Jnr Butler E Kimmerly Jnr,1902,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Oct 20 to page 82 Pd off 31/1/22 Re-engaged 25/10/22 Re-attached Scl life 6/1/23 from p.82,late
+32167_636897_0316-00055.jpg,LNER_Birmingham,Birmingham,LNWR,Dennis George Higgins O Ratcliffe,1901,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,from p.82 Transferd to Shend 11/1/21 Refd 12/1/21 Re-attached Scl life of Jnl 26/1 page 16 vide 26 for pension,late
+32167_636897_0316-00055.jpg,LNER_Birmingham,Birmingham,LNWR,Howard Blott Forester,1902,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Decsd 6.6.18 from p.82 Paid now on leave 63 from where originally transferred,late
+32167_636897_0316-00055.jpg,LNER_Birmingham,Birmingham,LNWR,Wood Robt Forester,1902,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Paid now on leave 63 from where originally transferred,late
+32167_636897_0316-00055.jpg,LNER_Birmingham,Birmingham,LNWR,Grant Forester,1902,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Paid now on leave 51 from where originally transferred,late
+32167_636897_0316-00055.jpg,LNER_Birmingham,Birmingham,LNWR,Hammond Edward Jnr Williams Harold,1903,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,from p.82 Bran - no remarks,late
+32167_636897_0316-00058.jpg,LNER_Birmingham,Birmingham,LNWR,Loughton Hinckes,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,May in Salaried Staff p.168,union_peak
+32167_636897_0316-00058.jpg,LNER_Birmingham,Birmingham,LNWR,Wethinder Owen,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,May in Salaried Staff p.168,union_peak
+32167_636897_0316-00058.jpg,LNER_Birmingham,Birmingham,LNWR,Atwood Joe Benjamim,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Tried in Salaried Staff p.168,union_peak
+32167_636897_0316-00058.jpg,LNER_Birmingham,Birmingham,LNWR,Poley Forrest,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,May in Salaried Staff p.168,union_peak
+32167_636897_0316-00058.jpg,LNER_Birmingham,Birmingham,LNWR,Blowse Hew Henry,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,May in Salaried Staff p.168,union_peak
+32167_636897_0316-00058.jpg,LNER_Birmingham,Birmingham,LNWR,Hutchinson Samuel,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Aug in To forge 22,union_peak
+32167_636897_0316-00058.jpg,LNER_Birmingham,Birmingham,LNWR,Langton John,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,May in External Staff b.68,union_peak
+32167_636897_0316-00058.jpg,LNER_Birmingham,Birmingham,LNWR,Hollis Robert,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,May in To page 50,union_peak
+32167_636897_0316-00059.jpg,LNER_Birmingham,Birmingham,LNWR,"Baruck, Thomas",1903,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,May 11 To page 66 Continued Stage,late
+32167_636897_0316-00059.jpg,LNER_Birmingham,Birmingham,LNWR,"Southworth, Edmund",1908,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,May 10 Returned Leaps p.66,late
+32167_636897_0316-00059.jpg,LNER_Birmingham,Birmingham,LNWR,"Henderson, Wm",1909,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,May 10 To page 6,late
+32167_636897_0316-00062.jpg,LNER_Birmingham,Birmingham,LNWR,Surtees,1879,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Dismissed,Dismissed 16/11/21,union_peak
+32167_636897_0316-00063.jpg,LNER_Birmingham,Birmingham,LNWR,Moreland Henry Appliances,1890,,1,30.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Dated 6.12.16. Woad Rd p. IV 18 Deceased 3.,post_collapse
+32167_636897_0316-00065.jpg,LNER_Birmingham,Birmingham,LNWR,Jameson,1899,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00065.jpg,LNER_Birmingham,Birmingham,LNWR,"France, Edwin",1910,Engine Driver,1,1.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00065.jpg,LNER_Birmingham,Birmingham,LNWR,"Knight, John",1898,Engine Driver,1,25.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00065.jpg,LNER_Birmingham,Birmingham,LNWR,"Cunne, Jos Alleyson Stokes, Thos Wm",1907,Engine Driver,1,16.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00065.jpg,LNER_Birmingham,Birmingham,LNWR,"Streeter, George",1911,Engine Driver,1,12.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00065.jpg,LNER_Birmingham,Birmingham,LNWR,Browne pro Saffron Walden,1912,,1,11.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00065.jpg,LNER_Birmingham,Birmingham,LNWR,"Mather, David",1911,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00065.jpg,LNER_Birmingham,Birmingham,LNWR,"Beamish pro Marjories Haxelby, Sh Engaged",1911,,1,12.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Marjories Haxelby,late
+32167_636897_0316-00065.jpg,LNER_Birmingham,Birmingham,LNWR,"Burman, Jos Aloysius",1911,Engine Driver,1,12.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00065.jpg,LNER_Birmingham,Birmingham,LNWR,"Mitchell, Franceso",1924,Engine Driver,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00065.jpg,LNER_Birmingham,Birmingham,LNWR,"Edwards, Lionel",1917,Engine Driver,1,6.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,nan,late
+32167_636897_0316-00067.jpg,LNER_Birmingham,Birmingham,LNWR,Moore,1885,Shunter,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Noted for p.s. Moved to p.s.,post_collapse
+32167_636897_0316-00070.jpg,LNER_Birmingham,Birmingham,LNWR,Tredford Board,1879,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,"Transferred to Trafford Depot, June 10. To page 92",union_peak
+32167_636897_0316-00070.jpg,LNER_Birmingham,Birmingham,LNWR,Barnes for Shropland,1882,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Aged 31. To large St. (on sufficient notice & leave deferred),union_collapse
+32167_636897_0316-00070.jpg,LNER_Birmingham,Birmingham,LNWR,Somerscales Infirm,1884,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,"Aged 31. Post transfer to Trafford from 29.20. Bldg. Lumb St, 11/1/24",post_collapse
+32167_636897_0316-00070.jpg,LNER_Birmingham,Birmingham,LNWR,Swinton Issued Jnr,1884,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,"Aged 31. Post transfer to Trafford from 29.20. Bldg. Lumb St, 11/1/24",post_collapse
+32167_636897_0316-00070.jpg,LNER_Birmingham,Birmingham,LNWR,Underwood S. Jnr,1863,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,"Aged 31. Post transfer to Trafford from 29.20. Bldg. Lumb St, 11/1/24",pre_1875
+32167_636897_0316-00070.jpg,LNER_Birmingham,Birmingham,LNWR,Rimmer Geo Jnr,1884,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,"Aged 31. Post transfer to Trafford from 29.20. Bldg. Lumb St, 11/1/24",post_collapse
+32167_636897_0316-00072.jpg,LNER_Birmingham,Birmingham,LNWR,Sutton John Henry Lovett Go Gilbert,1902,Engine Driver,1,9.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Retired 31/10/26. Banefield. ft p 198 Banefield,late
+32167_636897_0316-00072.jpg,LNER_Birmingham,Birmingham,LNWR,Henworth Joseph Hollis John,1890,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,"Retired 30/6/22. Post mounted from p 52 SCL 6/8, 12 to 29 v",post_collapse
+32167_636897_0316-00072.jpg,LNER_Birmingham,Birmingham,LNWR,Wattace Jas Sutton,1881,Fireman,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,discharged,New blk to page 50. Post discharged with SCL 6/6 13/3/26,union_collapse
+32167_636897_0316-00074.jpg,LNER_Birmingham,Birmingham,LNWR,Lewis Thomas Weighbridgeman,1882,,0,,0,1,13.085,Dudley,0,0.3513513513513513,1,Resigned,Resigned line lanier,union_collapse
+32167_636897_0316-00077.jpg,LNER_Birmingham,Birmingham,LNWR,Goldsworthy John Vade,1879,Engine Driver,1,8.0,0,1,13.085,Dudley,0,0.3513513513513513,0,,Goldsworthy reduced to lower seniority,union_peak
+32167_636897_0316-00077.jpg,LNER_Birmingham,Birmingham,LNWR,Henderson John Mondes,1902,Engine Driver,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Henderson reduced to lower seniority,late
+32167_636897_0316-00077.jpg,LNER_Birmingham,Birmingham,LNWR,Raybould Willie,1903,Engine Driver,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Raybould from Bury Additional Pit (Sct 06.31/1/06),late
+32167_636897_0316-00080.jpg,LNER_Birmingham,Birmingham,LNWR,"Elborough, Edmund Charles",1910,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Elborough from b 1st died 15.9.1920 9/12.20 (SA 5/6 b/6/6),late
+32167_636897_0316-00080.jpg,LNER_Birmingham,Birmingham,LNWR,"Edwards, Charles",1909,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Edwards from b 1st died 15.9.1920 (SA 5/6 b/6/6),late
+32167_636897_0316-00080.jpg,LNER_Birmingham,Birmingham,LNWR,"Emmett, George",1909,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Struck for p 100 Additional Foot SA 6 10.11.29,late
+32167_636897_0316-00080.jpg,LNER_Birmingham,Birmingham,LNWR,"Reid, W.D. Henry",1915,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Raise for p 5.9 Additional Foot SA 6 10.11.29,late
+32167_636897_0316-00080.jpg,LNER_Birmingham,Birmingham,LNWR,"Hollis, John",1911,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Raises for p 9.0 Additional Foot SA 6 10.11.29,late
+32167_636897_0316-00080.jpg,LNER_Birmingham,Birmingham,LNWR,"Lambert, W.M. Henry",1912,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Rambent for p 8.1 Additional Foot SA 6 10.11.29,late
+32167_636897_0316-00081.jpg,LNER_Birmingham,Birmingham,LNWR,E Runcford,1893,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Odd job 1897 left off July 1923 S.C.,late
+32167_636897_0316-00081.jpg,LNER_Birmingham,Birmingham,LNWR,E Bradshaw,1891,,0,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Bradshaw f b 1876 Additional foot (S.C. left 29/10/21),late
+32167_636897_0316-00082.jpg,LNER_Birmingham,Birmingham,LNWR,E Chapwell Charles,1913,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Extract from p.11. Additional Post (SCL LFE 20/11/19). A,late
+32167_636897_0316-00082.jpg,LNER_Birmingham,Birmingham,LNWR,E Aspett Charles,1907,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Extract from p.11. Additional Post (SCL LFE 20/11/19). A,late
+32167_636897_0316-00082.jpg,LNER_Birmingham,Birmingham,LNWR,E Smith George Vanwetter,1907,,1,,0,1,13.085,Dudley,0,0.3513513513513513,0,,Additional Post 9TCM 10020 of 17.3.20. Smith from p. 92 p. 7.10,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Pearson,1904,,0,,1,1,6.084,Dudley,18,0.3513513513513513,1,Resigned,Resigned 30.3.1906,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Jackman,1909,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Shelton,1911,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Ward,1877,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,union_peak
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Taylor,1924,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Hales,1927,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Gibbard,1929,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Dicks,1930,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Smith,1908,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Greenfield,1913,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Danvers,1906,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Hardin,1910,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Grayson,1930,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Caven,1930,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Hemming,1895,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Evans,1897,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Ashley,1912,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Ricketts,1927,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Harris,1930,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Fox,1908,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Williams,1906,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Baldham,1901,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Llewellyn,1911,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_626640_0279-00044.jpg,GWR_BirminghamStation_Sample_1910_1915,BirminghamStation,GWR,Slade,1930,,0,,1,1,6.084,Dudley,18,0.3513513513513513,0,,nan,late
+32167_636897_0189-00005.jpg,GWR_AylesburyStation,AylesburyStation,GWR,Johnson,1875,Porter,0,,0,0,32.003,Oxford,0,,0,,Increase at the rate of £7 per annum,union_peak
+32167_636897_0189-00005.jpg,GWR_AylesburyStation,AylesburyStation,GWR,Slade,1875,Shunter,0,,0,0,32.003,Oxford,0,,0,,Increase at the rate of £12 per annum,union_peak
+32167_636897_0189-00005.jpg,GWR_AylesburyStation,AylesburyStation,GWR,Stenson,1895,,0,,0,0,32.003,Oxford,0,,0,,Increase at the rate of £11 per annum,late
+32167_636897_0189-00005.jpg,GWR_AylesburyStation,AylesburyStation,GWR,Horner,1895,,0,,0,0,32.003,Oxford,0,,0,,Increase at the rate of £11 per annum,late
+32167_636897_0189-00005.jpg,GWR_AylesburyStation,AylesburyStation,GWR,Aldred,1896,,0,,0,0,32.003,Oxford,0,,0,,Sharpen at the rate of £20 per annum,late
+32167_636897_0189-00005.jpg,GWR_AylesburyStation,AylesburyStation,GWR,Neale,1892,Guard,0,,0,0,32.003,Oxford,0,,0,,Sharpen at the rate of £20 per annum,late
+32167_636897_0189-00010.jpg,GWR_AylesburyStation,AylesburyStation,GWR,Dimer,1897,,0,,0,0,32.003,Oxford,0,,0,,Increase at the rate of 1/6-12-open summer,late
+32167_636897_0189-00010.jpg,GWR_AylesburyStation,AylesburyStation,GWR,Porter,1876,,0,,0,0,32.003,Oxford,0,,0,,Increase at the rate of 1/6-12-open summer,union_peak
+32167_636897_0189-00010.jpg,GWR_AylesburyStation,AylesburyStation,GWR,Stokes,1876,,0,,0,0,32.003,Oxford,0,,0,,nan,union_peak
+32167_636897_0189-00017.jpg,GWR_AylesburyStation,AylesburyStation,GWR,William Frost Clark,1902,Clerk,0,,0,0,32.003,Oxford,0,,0,,Increase at the rate of 1/6 for annum,late
+32167_636897_0189-00017.jpg,GWR_AylesburyStation,AylesburyStation,GWR,George E.P. Sylvester,1902,Clerk,0,,0,0,32.003,Oxford,0,,0,,Increase at the rate of 1/6 p.o. for annum,late
+32167_636897_0189-00017.jpg,GWR_AylesburyStation,AylesburyStation,GWR,J. Aylesbury,1903,Signalman,0,,0,0,32.003,Oxford,0,,0,,Increase at the rate of 1/6 p.o. for annum,late
+32167_636897_0189-00017.jpg,GWR_AylesburyStation,AylesburyStation,GWR,Reuben Stringer,1903,Porter,0,,0,0,32.003,Oxford,0,,0,,Increase at the rate of 1/6 p.o. for annum,late

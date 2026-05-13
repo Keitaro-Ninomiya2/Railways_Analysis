@@ -1,0 +1,6 @@
+period,n_workers,dismissed_workers,dismissal_rate
+pre_1875,10,1,0.1
+union_peak,42,4,0.09523809523809523
+union_collapse,23,3,0.13043478260869565
+post_collapse,65,9,0.13846153846153847
+late,320,32,0.1

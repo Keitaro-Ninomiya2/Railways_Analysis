@@ -1,0 +1,29 @@
+.env
+errors/
+personnel_errors/
+personnel_json/
+
+# Local/editor state
+.claude/
+*.code-workspace
+
+# Python/cache artifacts
+__pycache__/
+*.py[cod]
+.map_cache/
+
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*_tmp.*
+
+# Heavy/generated vector maps; keep PNG versions for the deck
+accident_map.pdf
+asrs_branch_map.pdf
+combined_map.pdf
